@@ -1,0 +1,16 @@
+{
+	"height":"3",
+	"width":"5",
+	"entityDatas":[{
+		"positiony":"1",
+		"positionx":"2",
+		"velocityy":"0",
+		"velocityx":"1",
+		"flags":["1"]}],
+	"targetDatas":[{
+		"type":"1",
+		"flags":["1"],
+		"description":"摧毁你的敌人！",
+		"workload":"1",
+		"isCompleted":"False"}]
+}
