@@ -1,0 +1,9 @@
+{
+	"height":"5",
+	"width":"7",
+	"entityDatas":[{
+		"positiony":"2",
+		"positionx":"3",
+		"flags":["test"]}],
+	"targetDatas":[{"type":"test","flags":["test"],"description":"level for test www","workload":"1","isCompleted":"False"}]
+}
